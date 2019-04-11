@@ -11,14 +11,14 @@ Il compito è diviso in tre fasi:
 1. benchmark delle prestazioni
 
 Operazioni preliminari:
-- [ ] accedete con il vostro account personale a GitHub (**non sbagliate password!**)
-- [ ] fate il fork di questo progetto, ma **attenzione**: se vi viene chiesto, fate il fork sul vostro account personale e non sull'organizzazione del progetto di classe
-- [ ] copiate l'URL del **vostro** progetto
-- [ ] aprite Visual Studio Code
-- [ ] fate il clone del progetto
-- [ ] su Visual Studio Code, scaricate (se non è già presente) l'estensione Live Server, cliccando sull'icona "Extensions" nella barra verticale a sinistra
-- [ ] dopo aver installato l'estensione Live Server, deve comparire il pulsante "Go Live" nella barra blu in basso, premerci sopra per aprire la pagina
-- [ ] a questo punto avete la pagina di riferimento aperta sul vostro browser e potete cominciare lo sviluppo seguendo i punti nella sezione "Calcolo del punteggio->Punti Progetto" più sotto in questa pagina
+- [X] accedete con il vostro account personale a GitHub (**non sbagliate password!**)
+- [X] fate il fork di questo progetto, ma **attenzione**: se vi viene chiesto, fate il fork sul vostro account personale e non sull'organizzazione del progetto di classe
+- [X] copiate l'URL del **vostro** progetto
+- [X] aprite Visual Studio Code
+- [X] fate il clone del progetto
+- [X] su Visual Studio Code, scaricate (se non è già presente) l'estensione Live Server, cliccando sull'icona "Extensions" nella barra verticale a sinistra
+- [X] dopo aver installato l'estensione Live Server, deve comparire il pulsante "Go Live" nella barra blu in basso, premerci sopra per aprire la pagina
+- [X] a questo punto avete la pagina di riferimento aperta sul vostro browser e potete cominciare lo sviluppo seguendo i punti nella sezione "Calcolo del punteggio->Punti Progetto" più sotto in questa pagina
 
 Accesso ad AWS:
 - [ ] accedete alla [pagina di login](https://www.awseducate.com/signin/SiteLogin) di AWS Educate

@@ -47,13 +47,13 @@ Punti generali:
 - [ ] chiarezza del codice (commenti, identificativi, etc.)
 
 Punti progetto:
-- [ ] una card nel file JSON compilata correttamente
-- [ ] tutte le card nel file JSON compilate correttamente
-- [ ] codice JavaScript che itera sul file JSON
-- [ ] sostituzione delle stringhe statiche con elementi dinamici
-- [ ] una card visualizzata correttamente
-- [ ] tutte le card visualizzate correttamente
-- [ ] il file `index.html` originale e quello generato da voi sono _perfettamente identici_
+- [X] una card nel file JSON compilata correttamente
+- [X] tutte le card nel file JSON compilate correttamente
+- [X] codice JavaScript che itera sul file JSON
+- [X] sostituzione delle stringhe statiche con elementi dinamici
+- [X] una card visualizzata correttamente
+- [X] tutte le card visualizzate correttamente
+- [X] il file `index.html` originale e quello generato da voi sono _perfettamente identici_
 - [ ] commit e push del codice aggiornato su GitHub
 
 Punti AWS:

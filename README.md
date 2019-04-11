@@ -11,14 +11,14 @@ Il compito è diviso in tre fasi:
 1. benchmark delle prestazioni
 
 Operazioni preliminari:
-- [ ] accedete con il vostro account personale a GitHub (**non sbagliate password!**)
-- [ ] fate il fork di questo progetto, ma **attenzione**: se vi viene chiesto, fate il fork sul vostro account personale e non sull'organizzazione del progetto di classe
-- [ ] copiate l'URL del **vostro** progetto
-- [ ] aprite Visual Studio Code
-- [ ] fate il clone del progetto
-- [ ] su Visual Studio Code, scaricate (se non è già presente) l'estensione Live Server, cliccando sull'icona "Extensions" nella barra verticale a sinistra
-- [ ] dopo aver installato l'estensione Live Server, deve comparire il pulsante "Go Live" nella barra blu in basso, premerci sopra per aprire la pagina
-- [ ] a questo punto avete la pagina di riferimento aperta sul vostro browser e potete cominciare lo sviluppo seguendo i punti nella sezione "Calcolo del punteggio->Punti Progetto" più sotto in questa pagina
+- [X] accedete con il vostro account personale a GitHub (**non sbagliate password!**)
+- [X] fate il fork di questo progetto, ma **attenzione**: se vi viene chiesto, fate il fork sul vostro account personale e non sull'organizzazione del progetto di classe
+- [X] copiate l'URL del **vostro** progetto
+- [X] aprite Visual Studio Code
+- [X] fate il clone del progetto
+- [X] su Visual Studio Code, scaricate (se non è già presente) l'estensione Live Server, cliccando sull'icona "Extensions" nella barra verticale a sinistra
+- [X] dopo aver installato l'estensione Live Server, deve comparire il pulsante "Go Live" nella barra blu in basso, premerci sopra per aprire la pagina
+- [X] a questo punto avete la pagina di riferimento aperta sul vostro browser e potete cominciare lo sviluppo seguendo i punti nella sezione "Calcolo del punteggio->Punti Progetto" più sotto in questa pagina
 
 Accesso ad AWS:
 - [ ] accedete alla [pagina di login](https://www.awseducate.com/signin/SiteLogin) di AWS Educate
@@ -47,13 +47,13 @@ Punti generali:
 - [ ] chiarezza del codice (commenti, identificativi, etc.)
 
 Punti progetto:
-- [ ] una card nel file JSON compilata correttamente
-- [ ] tutte le card nel file JSON compilate correttamente
-- [ ] codice JavaScript che itera sul file JSON
-- [ ] sostituzione delle stringhe statiche con elementi dinamici
-- [ ] una card visualizzata correttamente
-- [ ] tutte le card visualizzate correttamente
-- [ ] il file `index.html` originale e quello generato da voi sono _perfettamente identici_
+- [X] una card nel file JSON compilata correttamente
+- [X] tutte le card nel file JSON compilate correttamente
+- [X] codice JavaScript che itera sul file JSON
+- [X] sostituzione delle stringhe statiche con elementi dinamici
+- [X] una card visualizzata correttamente
+- [X] tutte le card visualizzate correttamente
+- [X] il file `index.html` originale e quello generato da voi sono _perfettamente identici_
 - [ ] commit e push del codice aggiornato su GitHub
 
 Punti AWS:
